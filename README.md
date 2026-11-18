@@ -9,7 +9,7 @@ and plan approvals straight from the panel while you work in other apps.
 ## Why Agent Monitor
 
 The more agents you run, the harder it gets to keep track of what they're all doing. Some run in your terminal,
-spread over several tabs or windows, others in the Claude desktop app. When an agent needs a permission, an answer
+spread over several tabs or windows, others in the Claude desktop app or your IDE. When an agent needs a permission, an answer
 or a plan approval, it stops and waits, and nothing tells you unless you happen to look at the right tab. So you come
 back from an hour-long meeting and find that an agent asked for your approval five minutes after you left, and has
 been waiting ever since.
